@@ -1,0 +1,13 @@
+#sectionDown,
+#sectionUp {
+    background: rgb(236, 234, 234);
+}
+
+.content {
+    flex-direction: column;
+    position: absolute;
+    width: 20%;
+    display: flex;
+    right: 0;
+    text-align: end;
+}
