@@ -16,17 +16,10 @@
 
 <body>
     <form autocomplete="off" action="recherche.php" method="GET">
-        <div class="close-btn">
-            <span class="fas fa-times"></span>
         </div>
-        <div class="wrapper">
-            <div class="search-btn">
-                <span class="fas fa-search"></span>
-            </div>
             <div class="search-data">
                 <input type="text" name="search" id="voiture" placeholder="Recherchez votre voiture">
                 <div class="line"></div>
-                <span class="fas fa-search"></span>
                 <div id="sectionUp"></div>
                 <div class="line2"></div>
                 <div id="sectionDown"></div>
